@@ -2,8 +2,6 @@
 
 # DEPRECATED - This is no longer supported please consider using 10.x instead
 
-http://appdev.openshift.io/docs/nodejs-runtime.html
-
 ## Running The Example
 
 You can run this example as node processes on your localhost, as pods on a local
